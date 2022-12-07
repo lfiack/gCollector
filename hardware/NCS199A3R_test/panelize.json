@@ -1,0 +1,40 @@
+{
+    "layout": {
+        "type": "grid",
+        "rows": 2,
+        "cols": 2,
+        "hspace": "2mm",
+        "vspace": "2mm",
+        "rotation": "0deg",
+        "alternation": "none",
+        "renamenet": "Board_{n}-{orig}",
+        "renameref": "{orig}"
+    },
+    "source": {
+        "type": "auto",
+        "tolerance": "1mm"
+    },
+    "tabs": {
+        "type": "fixed",
+        "source": "none",
+		"width": "3mm",
+		"vcount": "1",
+		"hcount": "1"
+    },
+    "cuts": {
+        "type": "mousebites",
+        "drill": "0.5mm",
+        "spacing": "1mm",
+        "offset": "0.2mm",
+		"prolong": "0.5mm"
+	},
+    "framing": {
+        "type": "none",
+        "thickness": "0mm"
+    },
+    "post": {
+        "type": "auto",
+        "millradius": "1mm",
+        "copperfill": true
+    }    
+}

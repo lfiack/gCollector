@@ -406,6 +406,11 @@
     (uuid fd1e7b23-d0e7-4eea-8554-baec959b4425)
   )
 
+  (text "Let's say we want to measure from -3.5A to 3.5A\nWe want that to be between 0V to 3.3V\n0A means 3.3/2 = 1.65V (cf REF voltage)\nR=U/I ; Umax = 1.65 / 200 = 0.00825V\nR = 0.00825 / 3.5 = 0.0023R"
+    (at 44.45 81.28 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 42d6eda5-eafb-4103-8ede-7252657945d9)
+  )
   (text "Gain = 200" (at 127 88.9 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 9f23156a-602c-42af-9f3a-7b8f4b308126)
