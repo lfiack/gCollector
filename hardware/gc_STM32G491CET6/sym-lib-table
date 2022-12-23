@@ -1,3 +1,4 @@
 (sym_lib_table
   (lib (name "WITNS_ST")(type "KiCad")(uri "${KIPRJMOD}/witns_kicad_lib/symbols/WITNS_ST.kicad_sym")(options "")(descr ""))
+  (lib (name "WITNS_ROHM")(type "KiCad")(uri "${KIPRJMOD}/witns_kicad_lib/symbols/WITNS_ROHM.kicad_sym")(options "")(descr ""))
 )
