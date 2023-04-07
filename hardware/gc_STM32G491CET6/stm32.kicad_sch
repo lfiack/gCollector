@@ -1547,7 +1547,7 @@
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 1c9319df-56f4-4900-8988-42f76e54d592)
   )
-  (hierarchical_label "USB_DM" (shape input) (at 123.825 146.05 0)
+  (hierarchical_label "USB_DN" (shape input) (at 123.825 146.05 0)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 2892c595-3dfe-48a2-8a63-ed658a0c61f0)
   )

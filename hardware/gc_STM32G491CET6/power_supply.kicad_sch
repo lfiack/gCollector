@@ -1833,7 +1833,7 @@
     (uuid f547f2fd-8ed8-4406-84b3-0172c0138744)
   )
 
-  (hierarchical_label "USB_DM" (shape input) (at 236.22 118.11 0)
+  (hierarchical_label "USB_DN" (shape input) (at 236.22 118.11 0)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 13bf2a55-d556-4893-8490-661936c77ef9)
   )
