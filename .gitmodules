@@ -1,3 +1,6 @@
 [submodule "hardware/gc_STM32G491CET6/witns_kicad_lib"]
 	path = hardware/gc_STM32G491CET6/witns_kicad_lib
 	url = https://github.com/lfiack/witns_kicad_lib
+[submodule "firmware/test/test_gcollector/shell"]
+	path = firmware/test/test_gcollector/shell
+	url = git@github.com:lfiack/monsieur_shell.git
